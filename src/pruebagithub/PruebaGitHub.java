@@ -7,17 +7,13 @@ package pruebagithub;
 
 /**
  *
- * @author Vicente Ferrando 
+ * @author Vicente Ferrando
  */
 public class PruebaGitHub {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
-}
-//
 
+        System.out.println("HOla Mundo");
+    }
+
+}
