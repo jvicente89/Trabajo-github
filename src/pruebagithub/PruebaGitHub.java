@@ -7,7 +7,7 @@ package pruebagithub;
 
 /**
  *
- * @author Vicente Ferrando lope
+ * @author Vicente Ferrando 
  */
 public class PruebaGitHub {
 
